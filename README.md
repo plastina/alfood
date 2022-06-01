@@ -1,6 +1,7 @@
 # Alfood
 
 O Alfood é um site que lista restaurantes e pratos do menu. 
+
 <img src="screencapture.png" alt="Imagem do Alfood" width="50%">
 
 
